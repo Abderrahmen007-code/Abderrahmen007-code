@@ -29,4 +29,4 @@ A focused developer from Algeria crafting clean, structured, and modern web inte
 
 ### 📫 Connect
 - **Location:** Algeria
-- **Email:** [أدخل بريدك هنا]
+- **Email:** [tayebkaid2231@gmail.com]
